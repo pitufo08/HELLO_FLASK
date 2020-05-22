@@ -1,2 +1,0 @@
-# HELLO_FLASK
-CI FLASK Practice
